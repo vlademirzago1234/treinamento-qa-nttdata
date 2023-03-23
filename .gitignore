@@ -1,3 +1,4 @@
 # Ignora massa de dados
 *.xls
+*.xlsx
 *.zip
